@@ -1,0 +1,8 @@
+﻿  home_tasks.cpp
+C:\Users\фвьшт\source\repos\HSE\home_tasks\home_tasks.cpp(23,23): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\фвьшт\source\repos\HSE\home_tasks\home_tasks.cpp(28,12): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\фвьшт\source\repos\HSE\home_tasks\home_tasks.cpp(48,15): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\фвьшт\source\repos\HSE\home_tasks\home_tasks.cpp(73,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\фвьшт\source\repos\HSE\home_tasks\home_tasks.cpp(119,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\фвьшт\source\repos\HSE\home_tasks\home_tasks.cpp(68): warning C4715: calc: значение возвращается не при всех путях выполнения
+  home_tasks.vcxproj -> C:\Users\фвьшт\source\repos\HSE\x64\Debug\home_tasks.exe
